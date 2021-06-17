@@ -16,4 +16,4 @@ make
 
 ## Compile with udocker
 
-It is possible also to compile using udocker. After cloning, add gccpy and follow the intructions there
+It is possible also to compile using udocker. After cloning, add gccpy and follow the intructions: <https://github.com/yuvalyehudab/gccpy.git>
