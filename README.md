@@ -8,7 +8,7 @@ Clone the code, enter the directory where the code is and enter ```make```:
 
 ```sh
 
-git clone
+git clone https://github.com/yuvalyehudab/gcc-check.git
 cd gcc-check
 make
 
